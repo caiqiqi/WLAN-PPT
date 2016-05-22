@@ -11,6 +11,8 @@
 2. Infrastructured(有固定基础设施的网络)
   - BSS(基本服务集)
   - ESS(扩展服务集)</br>
+
+*****
 **参考:**
 - 讨论组里的『WLAN知识解析.ppt』
 - https://en.wikipedia.org/wiki/Wireless_LAN 『Types of wireless LANs』部分
@@ -27,8 +29,10 @@
 - http://product.pconline.com.cn/itbk/wlbg/wireless/1305/3303939.html
 
 ## IEEE 802.11
-IEEE 802.11是现今无线局域网通用的标准，它是由国际电机电子工程学会（IEEE）所定义的无线网络通信的标准。
+> IEEE 802.11是现今无线局域网通用的标准，它是由国际电机电子工程学会（IEEE）所定义的无线网络通信的标准。
 虽然有人将Wi-Fi与802.11混为一谈，但两者并不一样。</br>
+
+*****
 **参考:**
 - https://zh.wikipedia.org/wiki/IEEE_802.11
 - https://www.zhihu.com/question/20587817
