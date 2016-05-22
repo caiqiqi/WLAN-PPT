@@ -7,11 +7,12 @@
 - https://zh.wikipedia.org/wiki/IEEE_802.11
 
 ## WLAN分类
-- P2P/Ad Hoc(自组织网络)
-- Infrastructured(有固定基础设施的网络)
+1. P2P/Ad Hoc(自组织网络)
+2. Infrastructured(有固定基础设施的网络)
   - BSS(基本服务集)
   - ESS(扩展服务集)
-</br>参考:
+</br>
+参考:
 - 讨论组里的『WLAN知识解析.ppt』
 - https://en.wikipedia.org/wiki/Wireless_LAN 『Types of wireless LANs』部分
 
